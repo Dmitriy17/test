@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 we are in a new branch
+=======
+master nahui
+>>>>>>> master
